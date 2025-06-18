@@ -1,0 +1,9 @@
+DATA_FOLDER = 'data'
+CONFIG_FILE = 'config.json'
+DATA_SECTION = 'Data'
+FUNPAY_URL = 'https://funpay.com/'
+PARSE_DATA_FOLDER = 'parse_data'
+CALCULATOR_URL = 'https://steamid.pro/ru/'
+FUNPAY_ORDER_URL = 'https://funpay.com/orders/new'
+PARSE_DATA_FORMATTED_FOLDER = 'parse_data_formatted'
+SEMAPHORE_VALUE = 20

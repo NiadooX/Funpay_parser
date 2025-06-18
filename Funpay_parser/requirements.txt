@@ -1,0 +1,3 @@
+aiohttp==3.11.18
+beautifulsoup4==4.13.4
+pycbrf==1.1.0
